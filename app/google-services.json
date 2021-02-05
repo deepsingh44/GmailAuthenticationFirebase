@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "167867566328",
+    "firebase_url": "https://chandanfirstapp-default-rtdb.firebaseio.com",
+    "project_id": "chandanfirstapp",
+    "storage_bucket": "chandanfirstapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167867566328:android:6642ee06b10ffec9e7530d",
+        "android_client_info": {
+          "package_name": "com.deepsingh44.chandanfirebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167867566328-mggmoq6hvvcitgvbqhu1hsnp8bos4ibs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deepsingh44.chandanfirebasedemo",
+            "certificate_hash": "607a2067d91c1fd53f041e2e07e401ab935b03c3"
+          }
+        },
+        {
+          "client_id": "167867566328-mlmquok63tk8opnjqdtn5ocqfbsn6pvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfry6P_Tpx4VBWgG374pCYlwQd9iI0378"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167867566328-mlmquok63tk8opnjqdtn5ocqfbsn6pvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
